@@ -15,7 +15,7 @@ Time spent: **6** hours spent in total
 ![image](https://user-images.githubusercontent.com/91232193/169592857-0639e66e-bb63-4af6-8c62-0502f0092226.png)
 
 ## Challenges faced 
-(X mark indicates that they are resolved)
+(Unresolved challenges are unmarked)
 
 - [X] Determining length and width of the resultant image of the cheque
 - [ ] For the input images where cheque is held in hands, or background of the image and the color of the cheque are similar, finding contours became extremely difficult task
