@@ -1,4 +1,4 @@
-# Portrait of the cheque
+# Portrait of a cheque
 Here, the expectation is to make a "cheque scanner"; transform the picture of a cheque (bank terminology), captured from different angles and with different rotations, to a front-facing image of the cheque (akin to its scanned copy).
 
 This covers perspective transform of an image and contour detection in OpenCV.
